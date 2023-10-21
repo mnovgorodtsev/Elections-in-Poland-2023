@@ -1,0 +1,372 @@
+,Powiat,Laczna ilosc glosow,Laczna ilosc glosow niewaznych,Poprzez brak głosu,Poprzez zbyt wiele głosów
+0,Powiat bolesławiecki,46510,1031,449,582
+1,Powiat głogowski,47421,817,341,476
+2,Powiat jaworski,25660,520,209,311
+3,Powiat karkonoski,36096,657,287,370
+4,Powiat kamiennogórski,21878,521,190,331
+5,Powiat legnicki,29842,712,291,421
+6,Powiat lubański,28311,620,243,377
+7,Powiat lubiński,58542,1025,349,676
+8,Powiat lwówecki,22447,610,260,350
+9,Powiat polkowicki,32706,712,285,427
+10,Powiat zgorzelecki,47244,1076,445,631
+11,Powiat złotoryjski,21622,511,188,323
+12,Miasto na prawach powiatu Jelenia Góra,43154,563,284,279
+13,Miasto na prawach powiatu Legnica,50399,587,277,310
+14,Powiat dzierżoniowski,50902,1035,367,668
+15,Powiat kłodzki,81969,1676,570,1106
+16,Powiat świdnicki,83807,1465,468,997
+17,Powiat wałbrzyski,28399,601,174,427
+18,Powiat ząbkowicki,31970,699,247,452
+19,Miasto na prawach powiatu Wałbrzych,52643,854,369,485
+20,Powiat górowski,16532,440,176,264
+21,Powiat milicki,19350,390,174,216
+22,Powiat oleśnicki,58768,1190,535,655
+23,Powiat oławski,43413,552,263,289
+24,Powiat strzeliński,24111,512,192,320
+25,Powiat średzki,32010,622,292,330
+26,Powiat trzebnicki,50046,1082,417,665
+27,Powiat wołowski,25754,580,257,323
+28,Powiat wrocławski,102779,1190,557,633
+29,Miasto na prawach powiatu Wrocław,412755,2906,1463,1443
+30,Powiat bydgoski,70778,1193,449,744
+31,Powiat inowrocławski,83780,1959,723,1236
+32,Powiat mogileński,23622,604,203,401
+33,Powiat nakielski,44419,1254,495,759
+34,Powiat sępoleński,19592,531,202,329
+35,Powiat świecki,48842,1317,504,813
+36,Powiat tucholski,25203,765,304,461
+37,Powiat żniński,36936,1056,389,667
+38,Miasto na prawach powiatu Bydgoszcz,191388,1962,874,1088
+39,Powiat aleksandrowski,32235,893,318,491
+40,Powiat brodnicki,40153,1028,360,609
+41,Powiat chełmiński,24822,717,260,394
+42,Powiat golubsko-dobrzyński,22660,576,195,329
+43,Powiat grudziądzki,19619,566,201,322
+44,Powiat lipnowski,31145,1042,365,616
+45,Powiat radziejowski,20558,545,197,307
+46,Powiat rypiński,21452,525,184,300
+47,Powiat toruński,60618,1280,433,707
+48,Powiat wąbrzeski,16021,451,142,270
+49,Powiat włocławski,44368,1499,510,883
+50,Miasto na prawach powiatu Grudziądz,45912,757,331,325
+51,Miasto na prawach powiatu Toruń,113849,1197,500,572
+52,Miasto na prawach powiatu Włocławek,56271,1010,386,517
+53,Powiat janowski,25125,376,158,186
+54,Powiat kraśnicki,48170,1025,427,533
+55,Powiat lubartowski,47529,1116,470,544
+56,Powiat lubelski,90741,1405,541,682
+57,Powiat łęczyński,30216,681,233,393
+58,Powiat łukowski,57464,1370,499,711
+59,Powiat opolski,29997,743,284,371
+60,Powiat puławski,64578,1204,487,568
+61,Powiat rycki,31128,623,265,305
+62,Powiat świdnicki,39209,560,227,269
+63,Miasto na prawach powiatu Lublin,195188,1895,846,806
+64,Powiat bialski,57813,1334,517,817
+65,Powiat biłgorajski,51968,847,316,531
+66,Powiat chełmski,36730,1087,382,705
+67,Powiat hrubieszowski,29532,628,246,382
+68,Powiat krasnostawski,31792,781,295,486
+69,Powiat parczewski,17795,415,138,277
+70,Powiat radzyński,30875,725,244,481
+71,Powiat tomaszowski,40681,806,287,519
+72,Powiat włodawski,19671,521,183,338
+73,Powiat zamojski,54736,1161,437,724
+74,Miasto na prawach powiatu Biała Podlaska,31220,413,141,272
+75,Miasto na prawach powiatu Chełm,31378,455,176,279
+76,Miasto na prawach powiatu Zamość,32244,390,171,219
+77,Powiat gorzowski,39322,942,311,551
+78,Powiat krośnieński,28004,814,263,495
+79,Powiat międzyrzecki,29686,915,250,608
+80,Powiat nowosolski,43883,1021,363,567
+81,Powiat słubicki,25342,701,199,442
+82,Powiat strzelecko-drezdenecki,24245,764,205,490
+83,Powiat sulęciński,17628,735,174,440
+84,Powiat świebodziński,29224,769,223,462
+85,Powiat zielonogórski,40717,1180,415,686
+86,Powiat żagański,38092,1022,350,561
+87,Powiat żarski,47822,1164,398,677
+88,Powiat wschowski,19387,550,164,351
+89,Miasto na prawach powiatu Gorzów Wielkopolski,64079,958,322,535
+90,Miasto na prawach powiatu Zielona Góra,82049,904,353,429
+91,Powiat łódzki wschodni,46420,526,224,302
+92,Powiat brzeziński,18153,332,143,189
+93,Miasto na prawach powiatu Łódź,396163,3326,1633,1693
+94,Powiat bełchatowski,63970,1406,466,770
+95,Powiat opoczyński,43228,859,292,470
+96,Powiat piotrkowski,52543,1141,395,637
+97,Powiat radomszczański,61574,1408,472,781
+98,Powiat rawski,26986,732,298,374
+99,Powiat skierniewicki,23041,578,230,292
+100,Powiat tomaszowski,65810,1406,533,765
+101,Miasto na prawach powiatu Piotrków Trybunalski,40115,557,183,317
+102,Miasto na prawach powiatu Skierniewice,27979,340,156,130
+103,Powiat kutnowski,51424,1271,505,678
+104,Powiat łaski,29202,626,246,313
+105,Powiat łęczycki,27235,816,334,409
+106,Powiat łowicki,44570,1177,554,530
+107,Powiat pabianicki,71474,1179,464,576
+108,Powiat pajęczański,28858,726,281,383
+109,Powiat poddębicki,23656,703,280,370
+110,Powiat sieradzki,65542,1529,553,855
+111,Powiat wieluński,42865,866,335,458
+112,Powiat wieruszowski,23807,556,250,263
+113,Powiat zduńskowolski,36576,678,281,338
+114,Powiat zgierski,99786,1740,753,783
+115,Powiat chrzanowski,70039,964,356,608
+116,Powiat myślenicki,75062,1197,457,740
+117,Powiat oświęcimski,88001,1176,509,667
+118,Powiat suski,46007,843,332,511
+119,Powiat wadowicki,91279,1537,606,931
+120,Powiat krakowski,173701,2796,1168,1266
+121,Powiat miechowski,26509,561,262,253
+122,Powiat olkuski,63323,1082,412,529
+123,Miasto na prawach powiatu Kraków,503101,4673,1974,2049
+124,Powiat gorlicki,56788,995,374,621
+125,Powiat limanowski,71648,1232,494,738
+126,Powiat nowosądecki,121781,1962,840,1122
+127,Powiat nowotarski,97083,1946,763,1183
+128,Powiat tatrzański,41445,598,242,356
+129,Miasto na prawach powiatu Nowy Sącz,45721,441,201,240
+130,Powiat bocheński,61796,941,374,567
+131,Powiat brzeski,49221,898,358,540
+132,Powiat dąbrowski,28278,571,245,326
+133,Powiat proszowicki,23501,566,216,350
+134,Powiat tarnowski,106607,1836,747,1089
+135,Powiat wielicki,81543,985,467,518
+136,Miasto na prawach powiatu Tarnów,59034,592,260,332
+137,Powiat ciechanowski,48625,933,369,564
+138,Powiat gostyniński,24137,595,237,358
+139,Powiat mławski,37564,839,269,570
+140,Powiat płocki,60371,1507,590,917
+141,Powiat płoński,46601,1225,511,714
+142,Powiat przasnyski,26599,621,257,364
+143,Powiat sierpecki,26237,618,242,376
+144,Powiat sochaczewski,49223,712,298,414
+145,Powiat żuromiński,19664,464,150,314
+146,Powiat żyrardowski,46786,621,265,356
+147,Miasto na prawach powiatu Płock,65643,748,280,468
+148,Powiat białobrzeski,19773,486,178,308
+149,Powiat grójecki,61859,1052,476,576
+150,Powiat kozienicki,34640,686,248,438
+151,Powiat lipski,17495,413,186,227
+152,Powiat przysuski,24454,526,250,276
+153,Powiat radomski,84623,1579,564,1015
+154,Powiat szydłowiecki,20882,507,173,334
+155,Powiat zwoleński,18970,396,135,261
+156,Miasto na prawach powiatu Radom,115258,1107,497,610
+157,Powiat garwoliński,64409,1453,526,815
+158,Powiat łosicki,16531,387,137,220
+159,Powiat makowski,24122,765,278,437
+160,Powiat miński,99755,1592,670,741
+161,Powiat ostrołęcki,46832,1404,518,731
+162,Powiat ostrowski,39479,900,349,455
+163,Powiat pułtuski,29645,887,357,469
+164,Powiat siedlecki,46562,1007,402,515
+165,Powiat sokołowski,30685,625,240,304
+166,Powiat węgrowski,37551,843,296,460
+167,Powiat wyszkowski,43894,1047,387,552
+168,Miasto na prawach powiatu Ostrołęka,27285,462,165,192
+169,Miasto na prawach powiatu Siedlce,44579,549,197,290
+170,Warszawa,1152583,7639,4077,3562
+171,Statki,389,6,0,6
+172,Zagranica,574673,5281,2793,2488
+173,Powiat grodziski,62820,660,319,341
+174,Powiat legionowski,79397,706,320,386
+175,Powiat nowodworski,46661,790,333,457
+176,Powiat otwocki,79963,1014,478,536
+177,Powiat piaseczyński,124047,1248,633,615
+178,Powiat pruszkowski,109221,948,541,407
+179,Powiat warszawski zachodni,80208,728,363,365
+180,Powiat wołomiński,156348,1827,890,937
+181,Powiat brzeski,46695,889,392,497
+182,Powiat głubczycki,22258,532,219,313
+183,Powiat kędzierzyńsko-kozielski,44107,1025,342,683
+184,Powiat kluczborski,31100,674,260,414
+185,Powiat krapkowicki,28824,826,204,622
+186,Powiat namysłowski,22725,549,188,361
+187,Powiat nyski,68098,1297,529,768
+188,Powiat oleski,30791,795,306,489
+189,Powiat opolski,60316,1565,486,1079
+190,Powiat prudnicki,25741,617,196,421
+191,Powiat strzelecki,35092,1161,360,801
+192,Miasto na prawach powiatu Opole,74883,732,320,412
+193,Powiat bieszczadzki,11313,238,72,166
+194,Powiat brzozowski,33387,574,204,370
+195,Powiat jarosławski,61874,1108,462,646
+196,Powiat jasielski,59155,1092,429,663
+197,Powiat krośnieński,60391,980,389,591
+198,Powiat lubaczowski,27490,613,206,407
+199,Powiat przemyski,37077,939,313,626
+200,Powiat przeworski,41406,814,299,515
+201,Powiat sanocki,46367,785,301,484
+202,Powiat leski,17114,338,144,194
+203,Miasto na prawach powiatu Krosno,24790,234,109,125
+204,Miasto na prawach powiatu Przemyśl,29752,405,163,242
+205,Powiat dębicki,72627,1082,469,613
+206,Powiat kolbuszowski,31136,425,194,231
+207,Powiat leżajski,35318,454,203,251
+208,Powiat łańcucki,45691,516,217,299
+209,Powiat mielecki,72178,967,442,525
+210,Powiat niżański,32384,476,204,272
+211,Powiat ropczycko-sędziszowski,40543,606,259,347
+212,Powiat rzeszowski,97176,1289,570,719
+213,Powiat stalowowolski,52674,729,309,420
+214,Powiat strzyżowski,32252,476,234,242
+215,Powiat tarnobrzeski,26783,496,199,297
+216,Miasto na prawach powiatu Rzeszów,119465,928,464,464
+217,Miasto na prawach powiatu Tarnobrzeg,24247,254,90,164
+218,Powiat augustowski,28915,578,215,314
+219,Powiat białostocki,87011,1322,545,626
+220,Powiat bielski,28105,569,189,323
+221,Powiat grajewski,22150,571,224,299
+222,Powiat hajnowski,22613,513,174,299
+223,Powiat kolneński,18221,367,131,199
+224,Powiat łomżyński,26097,509,221,246
+225,Powiat moniecki,18639,402,147,240
+226,Powiat sejneński,9737,230,94,114
+227,Powiat siemiatycki,21334,441,185,224
+228,Powiat sokólski,32541,693,273,357
+229,Powiat suwalski,18416,463,162,252
+230,Powiat wysokomazowiecki,30317,469,216,206
+231,Powiat zambrowski,22272,403,187,182
+232,Miasto na prawach powiatu Białystok,167033,1757,729,830
+233,Miasto na prawach powiatu Łomża,31106,374,166,174
+234,Miasto na prawach powiatu Suwałki,34915,517,229,234
+235,Powiat gdański,70610,1229,449,616
+236,Powiat kwidzyński,39681,1110,365,633
+237,Powiat malborski,31541,704,228,411
+238,Powiat nowodworski,18868,484,187,249
+239,Powiat starogardzki,64907,1679,499,1003
+240,Powiat tczewski,58241,1361,382,843
+241,Powiat sztumski,18865,742,197,503
+242,Miasto na prawach powiatu Gdańsk,301214,2847,1083,1288
+243,Miasto na prawach powiatu Sopot,22699,183,75,86
+244,Powiat bytowski,38785,808,332,476
+245,Powiat chojnicki,50708,945,427,518
+246,Powiat człuchowski,27469,706,284,422
+247,Powiat kartuski,82422,1288,611,677
+248,Powiat kościerski,39706,800,396,404
+249,Powiat lęborski,33661,578,261,317
+250,Powiat pucki,52224,794,378,416
+251,Powiat słupski,49092,1055,435,620
+252,Powiat wejherowski,124234,1614,786,828
+253,Miasto na prawach powiatu Gdynia,148490,1185,569,616
+254,Miasto na prawach powiatu Słupsk,46398,517,275,242
+255,Powiat bielski,99346,1144,560,584
+256,Powiat cieszyński,102077,1418,633,785
+257,Powiat pszczyński,64308,821,382,439
+258,Powiat żywiecki,86672,1481,657,824
+259,Miasto na prawach powiatu Bielsko-Biała,98699,892,417,475
+260,Powiat częstochowski,78372,1856,589,1075
+261,Powiat kłobucki,48268,1094,328,654
+262,Powiat lubliniecki,40925,1045,397,538
+263,Powiat myszkowski,39691,836,293,469
+264,Miasto na prawach powiatu Częstochowa,123049,1533,587,666
+265,Powiat gliwicki,61329,1021,376,645
+266,Powiat tarnogórski,79315,984,445,539
+267,Miasto na prawach powiatu Bytom,75128,1190,535,655
+268,Miasto na prawach powiatu Gliwice,99910,1218,597,621
+269,Miasto na prawach powiatu Zabrze,77478,1339,615,724
+270,Powiat mikołowski,57895,809,314,399
+271,Powiat raciborski,50676,1159,337,749
+272,Powiat rybnicki,42649,842,323,415
+273,Powiat wodzisławski,84083,1409,548,703
+274,Miasto na prawach powiatu Jastrzębie-Zdrój,45552,831,341,418
+275,Miasto na prawach powiatu Rybnik,73329,1078,418,470
+276,Miasto na prawach powiatu Żory,34072,530,207,250
+277,Powiat bieruńsko-lędziński,34118,486,234,252
+278,Miasto na prawach powiatu Chorzów,53869,772,361,411
+279,Miasto na prawach powiatu Katowice,171695,1768,854,914
+280,Miasto na prawach powiatu Mysłowice,40453,502,217,285
+281,Miasto na prawach powiatu Piekary Śląskie,29271,481,200,281
+282,Miasto na prawach powiatu Ruda Śląska,71890,971,485,486
+283,Miasto na prawach powiatu Siemianowice Śląskie,35813,506,244,262
+284,Miasto na prawach powiatu Świętochłowice,23878,420,164,256
+285,Miasto na prawach powiatu Tychy,71896,810,437,373
+286,Powiat będziński,86052,1087,429,658
+287,Powiat zawierciański,66976,1065,403,662
+288,Miasto na prawach powiatu Dąbrowa Górnicza,67467,698,329,369
+289,Miasto na prawach powiatu Jaworzno,50472,658,297,361
+290,Miasto na prawach powiatu Sosnowiec,111668,1168,518,650
+291,Powiat buski,40583,900,372,462
+292,Powiat jędrzejowski,46344,1024,366,577
+293,Powiat kazimierski,17046,369,150,186
+294,Powiat kielecki,119998,2550,916,1454
+295,Powiat konecki,43461,972,392,512
+296,Powiat opatowski,26755,815,337,424
+297,Powiat ostrowiecki,54801,1202,487,593
+298,Powiat pińczowski,20875,498,202,253
+299,Powiat sandomierski,40152,884,296,525
+300,Powiat skarżyski,40147,714,277,356
+301,Powiat starachowicki,46780,915,384,465
+302,Powiat staszowski,37939,890,341,479
+303,Powiat włoszczowski,24917,520,222,276
+304,Miasto na prawach powiatu Kielce,112791,1204,558,526
+305,Powiat bartoszycki,26749,913,267,566
+306,Powiat braniewski,18700,619,163,403
+307,Powiat działdowski,32276,1045,315,669
+308,Powiat elbląski,27371,856,273,525
+309,Powiat iławski,47405,1333,429,826
+310,Powiat lidzbarski,19042,611,153,407
+311,Powiat nowomiejski,21951,638,213,388
+312,Powiat ostródzki,51012,1625,526,1008
+313,Miasto na prawach powiatu Elbląg,63425,911,343,456
+314,Powiat ełcki,40380,965,310,565
+315,Powiat giżycki,28188,800,265,471
+316,Powiat kętrzyński,27961,895,247,566
+317,Powiat mrągowski,24532,676,218,392
+318,Powiat nidzicki,15636,576,188,351
+319,Powiat olecki,14730,437,145,251
+320,Powiat olsztyński,67555,1959,611,1142
+321,Powiat piski,25777,742,254,445
+322,Powiat szczycieński,35121,1235,382,762
+323,Powiat gołdapski,11699,380,107,249
+324,Powiat węgorzewski,10853,369,111,227
+325,Miasto na prawach powiatu Olsztyn,98942,1282,600,514
+326,Powiat gostyński,40040,1200,377,692
+327,Powiat jarociński,38795,1002,279,622
+328,Powiat kaliski,46305,1181,396,675
+329,Powiat kępiński,31493,810,273,481
+330,Powiat kościański,46024,1372,501,748
+331,Powiat krotoszyński,41204,1079,354,593
+332,Powiat leszczyński,33326,1093,396,642
+333,Powiat ostrowski,90782,2020,684,1151
+334,Powiat ostrzeszowski,30407,831,266,509
+335,Powiat pleszewski,34239,1014,307,625
+336,Powiat rawicki,33198,1098,346,640
+337,Miasto na prawach powiatu Kalisz,55160,842,281,502
+338,Miasto na prawach powiatu Leszno,35356,520,179,292
+339,Powiat gnieźnieński,81520,1855,593,1124
+340,Powiat kolski,45298,1185,460,652
+341,Powiat koniński,71359,2009,674,1226
+342,Powiat słupecki,32213,1050,311,690
+343,Powiat średzki,34683,855,317,476
+344,Powiat śremski,34145,882,281,512
+345,Powiat turecki,45768,997,380,519
+346,Powiat wrzesiński,44581,979,291,589
+347,Miasto na prawach powiatu Konin,40035,547,205,296
+348,Powiat chodzieski,25950,765,201,486
+349,Powiat czarnkowsko-trzcianecki,45478,1419,452,861
+350,Powiat grodziski,28009,798,269,456
+351,Powiat międzychodzki,19767,563,160,346
+352,Powiat nowotomyski,42509,1004,304,607
+353,Powiat obornicki,32967,979,260,664
+354,Powiat pilski,71847,1662,489,1001
+355,Powiat szamotulski,54084,1470,462,897
+356,Powiat wągrowiecki,37822,1151,315,723
+357,Powiat wolsztyński,32295,986,354,548
+358,Powiat złotowski,34386,1082,290,694
+359,Powiat poznański,263014,3266,1328,1938
+360,Miasto na prawach powiatu Poznań,339152,2862,1389,1473
+361,Powiat białogardzki,22009,661,236,425
+362,Powiat choszczeński,22753,810,253,557
+363,Powiat drawski,27300,775,262,513
+364,Powiat kołobrzeski,48669,923,356,567
+365,Powiat koszaliński,34773,1045,342,703
+366,Powiat sławieński,29058,776,246,530
+367,Powiat szczecinecki,37167,965,282,683
+368,Powiat świdwiński,22310,646,234,412
+369,Powiat wałecki,26424,663,191,472
+370,Miasto na prawach powiatu Koszalin,59759,809,312,497

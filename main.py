@@ -19,3 +19,4 @@ district_stat_scrapper("okregi.csv", driver)
 
 
 
+
