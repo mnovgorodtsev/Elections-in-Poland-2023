@@ -1,9 +1,7 @@
 import time
 from selenium.webdriver.common.by import By
 import pandas as pd
-import requests
-from classes import Const
-from selenium import webdriver
+
 
 def district_URL_scrapper(Const):
     current_district = 1
@@ -34,7 +32,7 @@ def region_URL_scrapper(district_list, driver):
             a = a + 1
         current_district_number = current_district_number + 1
     region_df = pd.DataFrame(all_regions_url, columns=['Powiat','URL'])
-    region_df.to_csv('okregi.csv',index=False)
+    region_df.to_csv('csv/okregi.csv',index=False)
 
 def district_stat_scrapper(csv_file, driver):
     region_df=pd.read_csv(csv_file)
@@ -64,7 +62,7 @@ def district_stat_scrapper(csv_file, driver):
                         'Poprzez zbyt wiele głosów']
     for column in columns_to_clean:
         final_dataset_df[column] = final_dataset_df[column].str.replace(' ', '')
-    final_dataset_df.to_csv('final_dataset.csv')
+    final_dataset_df.to_csv('csv/final_dataset.csv')
 
 
     driver.close()
