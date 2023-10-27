@@ -1,29 +1,26 @@
 import time
 from selenium.webdriver.common.by import By
 import pandas as pd
-pd.set_option('display.max_columns', 100)
 import requests
 from classes import Const
 from selenium import webdriver
+
 def district_URL_scrapper(Const):
-    i = 1
+    current_district = 1
     districts_URL = []
     URL_base = Const.URL
     districts = Const.electoral_district_number
-    while i < districts:
-        URL = URL_base + str(i)
+    while current_district <= districts:
+        URL = URL_base + str(current_district)
         districts_URL.append(URL)
-        i = i + 1
+        current_district = current_district + 1
     return districts_URL
 
 def region_URL_scrapper(district_list, driver):
-    cala_lista_okregow = []
-    okrag = []
-    numer_okregu=1
-    i=1
+    all_regions_url = []
+    current_district_number=1
     for single_district_url in district_list:
         a = 0
-
         driver.get(single_district_url)
         time.sleep(2)
         ul_elements = driver.find_elements(By.CSS_SELECTOR, "ul.list li ul li")
@@ -31,22 +28,13 @@ def region_URL_scrapper(district_list, driver):
             a_one_region = one_region.find_elements(By.TAG_NAME, "a")
             for x in a_one_region:
                 href_value = x.get_attribute("href")
-                powiat = [one_region.text, href_value]
-
+                single_region = [one_region.text, href_value]
             if (a != 0):
-                okrag.append(powiat)
-            # print(okrag)
+                all_regions_url.append(single_region)
             a = a + 1
-        i = i + 1
-        numer_okregu = numer_okregu + 1
-        #cala_lista_okregow.append(okrag)
-
-    import csv
-
-    #print(cala_lista_okregow)
-
-    okregi_dataframe = pd.DataFrame(okrag, columns=['Powiat','URL'])
-    okregi_dataframe.to_csv('okregi.csv',index=False)
+        current_district_number = current_district_number + 1
+    region_df = pd.DataFrame(all_regions_url, columns=['Powiat','URL'])
+    region_df.to_csv('okregi.csv',index=False)
 
 def district_stat_scrapper(csv_file, driver):
     region_df=pd.read_csv(csv_file)
@@ -63,9 +51,7 @@ def district_stat_scrapper(csv_file, driver):
         niewazny_poprzez_zadnegoX = driver.find_element(By.XPATH,'/html/body/div[4]/div[16]/div[4]/div[3]/table/tbody/tr[7]/td[3]').text
         nazwa_powiatu = driver.find_element(By.XPATH, '//*[@id="root"]/div[16]/div[1]/div[1]/div/h3').text
         print("Nazwa: ", nazwa_powiatu, "Laczna ilosc glosow waznych: ", laczna_ilosc_wszystkich_glosow," Laczna ilosc glosow niewaznych: ", laczna_ilosc_glosow_niewaznych, " Wiecej niz jeden X: ", niewazny_poprzez_wieleX, " Zadnego X: ", niewazny_poprzez_zadnegoX)
-        #print(" Laczna ilosc glosow niewaznych: ", laczna_ilosc_glosow_niewaznych)
-        #print("Wiecej niz jeden X: ", niewazny_poprzez_wieleX)
-        #print("Zadnego X: ", niewazny_poprzez_zadnegoX)
+
         stat_list=[nazwa_powiatu,laczna_ilosc_wszystkich_glosow,laczna_ilosc_glosow_niewaznych,niewazny_poprzez_zadnegoX,niewazny_poprzez_wieleX]
         final_dataset.append(stat_list)
         time.sleep(5)
@@ -73,12 +59,11 @@ def district_stat_scrapper(csv_file, driver):
 
     time.sleep(5)
 
-
     final_dataset_df=pd.DataFrame(final_dataset, columns=['Powiat','Laczna ilosc glosow','Laczna ilosc glosow niewaznych','Poprzez brak głosu','Poprzez zbyt wiele głosów'])
     columns_to_clean = ['Laczna ilosc glosow', 'Laczna ilosc glosow niewaznych', 'Poprzez brak głosu',
                         'Poprzez zbyt wiele głosów']
-    for col in columns_to_clean:
-        final_dataset_df[col] = final_dataset_df[col].str.replace(' ', '')
+    for column in columns_to_clean:
+        final_dataset_df[column] = final_dataset_df[column].str.replace(' ', '')
     final_dataset_df.to_csv('final_dataset.csv')
 
 
